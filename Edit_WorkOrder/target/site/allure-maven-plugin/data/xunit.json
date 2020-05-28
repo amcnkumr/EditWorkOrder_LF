@@ -1,0 +1,189 @@
+{
+  "time" : {
+    "start" : 1590659380718,
+    "stop" : 1590660362470,
+    "duration" : 981752
+  },
+  "testSuites" : [ {
+    "uid" : "77b7195d5cdc68ec",
+    "name" : "Suite : Test",
+    "title" : "Suite : Test",
+    "time" : {
+      "start" : 1590659380718,
+      "stop" : 1590659421064,
+      "duration" : 40346
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "ffc62f801e4e2d8a",
+      "name" : "PortalLogin",
+      "title" : "Portal Login And Launch ",
+      "time" : {
+        "start" : 1590659380718,
+        "stop" : 1590659421064,
+        "duration" : 40346
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  }, {
+    "uid" : "bc530331edd283e",
+    "name" : "Suite : Testclasess",
+    "title" : "Suite : Testclasess",
+    "time" : {
+      "start" : 1590659380718,
+      "stop" : 1590660362470,
+      "duration" : 981752
+    },
+    "statistic" : {
+      "total" : 12,
+      "passed" : 12,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "bf9bc9b10f08f619",
+      "name" : "PortalLogin",
+      "title" : "Portal Login And Launch ",
+      "time" : {
+        "start" : 1590659380718,
+        "stop" : 1590659421064,
+        "duration" : 40346
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "aed6944b9c0f3dd",
+      "name" : "wopEpisodeVersionCreation",
+      "title" : "WOP Episode version Creation",
+      "time" : {
+        "start" : 1590659421071,
+        "stop" : 1590659922693,
+        "duration" : 501622
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "575c518e8ccf680",
+      "name" : "MPEpisodeVersionTest",
+      "title" : "WOP to MP Integration",
+      "time" : {
+        "start" : 1590659922696,
+        "stop" : 1590660265207,
+        "duration" : 342511
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "73964c5bf61805ec",
+      "name" : "WOPtoMPGeneralEditWorkOrderTest",
+      "title" : "WOP to MP General Edit WorkOrder Validations",
+      "time" : {
+        "start" : 1590660265210,
+        "stop" : 1590660267213,
+        "duration" : 2003
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "9ab07d2be9add0d8",
+      "name" : "WOPtoMPTempoEditWorkOrderTest",
+      "title" : "WOP to MP Tempo Edit WorkOrder Validations",
+      "time" : {
+        "start" : 1590660267214,
+        "stop" : 1590660269218,
+        "duration" : 2004
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "53fc0e2d7ad4798e",
+      "name" : "WOPtoMPEpisodeDataTest",
+      "title" : "WOP to MP Episode Data Validations",
+      "time" : {
+        "start" : 1590660269219,
+        "stop" : 1590660271230,
+        "duration" : 2011
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "78f37c3c147cda78",
+      "name" : "EditWorkOrderTest",
+      "title" : "WOP to Portal Edit Work Order Integration",
+      "time" : {
+        "start" : 1590660271232,
+        "stop" : 1590660309352,
+        "duration" : 38120
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "a5b580162a65736",
+      "name" : "WOPtoPortalGeneralEditWorkOrderTest",
+      "title" : "WOP to Portal General Edit WorkOrder Validations",
+      "time" : {
+        "start" : 1590660309355,
+        "stop" : 1590660309357,
+        "duration" : 2
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "d30bff98c9c4c396",
+      "name" : "WOPtoPortalTempoEditWorkOrderTest",
+      "title" : "WOP to Portal Tempo Edit WorkOrder Validations",
+      "time" : {
+        "start" : 1590660309358,
+        "stop" : 1590660309359,
+        "duration" : 1
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "30eaf46a98d1c390",
+      "name" : "recordSearchField",
+      "title" : "WOP to Portal Integration",
+      "time" : {
+        "start" : 1590660309361,
+        "stop" : 1590660355690,
+        "duration" : 46329
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "83d1f0f4390d97a3",
+      "name" : "WOPtoPortalEpisodeDataTest",
+      "title" : "WOP to Portal Episode Data Validations",
+      "time" : {
+        "start" : 1590660355692,
+        "stop" : 1590660357706,
+        "duration" : 2014
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "c5c4bfff67c69085",
+      "name" : "DataBaseConnectionTest",
+      "title" : "Connecting to DataBase and Mediator",
+      "time" : {
+        "start" : 1590660357707,
+        "stop" : 1590660362470,
+        "duration" : 4763
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}

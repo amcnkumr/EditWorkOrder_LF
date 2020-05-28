@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1590659378878" stop="1590660363730" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : Test</name>
+    <title>Suite : Test</title>
+    <test-cases>
+        <test-case start="1590659380718" stop="1590659421064" status="passed">
+            <name>PortalLogin</name>
+            <title>Portal Login And Launch </title>
+            <steps>
+                <step start="1590659416061" stop="1590659416062" status="passed">
+                    <name>logStep[Portal Login Successful..]</name>
+                    <title>Portal Login Successful..</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Testclasess"/>
+                <label name="testClass" value="com.amc.Testclasess.execute.PortalLoginTest"/>
+                <label name="testMethod" value="PortalLogin"/>
+                <label name="story" value="Portal"/>
+                <label name="feature" value="Edit Work Order"/>
+                <label name="host" value="MONO-HYD-LAP-41"/>
+                <label name="thread" value="14756@MONO-HYD-LAP-41.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

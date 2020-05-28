@@ -1,0 +1,95 @@
+{
+  "uid" : "30eaf46a98d1c390",
+  "name" : "recordSearchField",
+  "title" : "WOP to Portal Integration",
+  "time" : {
+    "start" : 1590660309361,
+    "stop" : 1590660355690,
+    "duration" : 46329
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 2
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "bc530331edd283e",
+    "name" : "Suite : Testclasess",
+    "title" : "Suite : Testclasess"
+  },
+  "steps" : [ {
+    "name" : "logStep[ Portal Record Is : LSIT01021938]",
+    "title" : " Portal Record Is : LSIT01021938",
+    "time" : {
+      "start" : 1590660332931,
+      "stop" : 1590660332931,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[ WOP to MP to Portal Integration is Success : LSIT01021938]",
+    "title" : " WOP to MP to Portal Integration is Success : LSIT01021938",
+    "time" : {
+      "start" : 1590660335107,
+      "stop" : 1590660335107,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "testSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "testGroup",
+    "value" : "Testclasess"
+  }, {
+    "name" : "testMethod",
+    "value" : "recordSearchField"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "14756@MONO-HYD-LAP-41.main(1)"
+  }, {
+    "name" : "story",
+    "value" : "Portal"
+  }, {
+    "name" : "suite-name",
+    "value" : "Suite : Testclasess"
+  }, {
+    "name" : "suite-title",
+    "value" : "Suite : Testclasess"
+  }, {
+    "name" : "testClass",
+    "value" : "com.amc.Testclasess.execute.RecordLocatorTest"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "feature",
+    "value" : "Edit Work Order"
+  }, {
+    "name" : "host",
+    "value" : "MONO-HYD-LAP-41"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,320 @@
+{
+  "uid" : "83d1f0f4390d97a3",
+  "name" : "WOPtoPortalEpisodeDataTest",
+  "title" : "WOP to Portal Episode Data Validations",
+  "time" : {
+    "start" : 1590660355692,
+    "stop" : 1590660357706,
+    "duration" : 2014
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 17
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "bc530331edd283e",
+    "name" : "Suite : Testclasess",
+    "title" : "Suite : Testclasess"
+  },
+  "steps" : [ {
+    "name" : "logStep[WOP Data [ SecurityStatus:Open ] Matched With Portal Data [ SecurityStatus:Open ] ]",
+    "title" : "WOP Data [ SecurityStatus:Open ] Matched With Portal Data [ SecurityStatus:Open ] ",
+    "time" : {
+      "start" : 1590660357695,
+      "stop" : 1590660357695,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ Ownernetwork:AMC ] Matched With Portal Data [ Ownernetwork:AMC ] ]",
+    "title" : "WOP Data [ Ownernetwork:AMC ] Matched With Portal Data [ Ownernetwork:AMC ] ",
+    "time" : {
+      "start" : 1590660357696,
+      "stop" : 1590660357696,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ Title:Crazy For Love: 112: Amary & Yasin ] Matched With Portal Data [ Title:Crazy For Love: 112: Amar...]",
+    "title" : "WOP Data [ Title:Crazy For Love: 112: Amary & Yasin ] Matched With Portal Data [ Title:Crazy For Love: 112: Amary & Yasi...",
+    "time" : {
+      "start" : 1590660357697,
+      "stop" : 1590660357697,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ AMCNIDVideo:LSIT01021938.video ] Matched With Portal Data [ AMCNIDVideo:LSIT01021938.video ] ]",
+    "title" : "WOP Data [ AMCNIDVideo:LSIT01021938.video ] Matched With Portal Data [ AMCNIDVideo:LSIT01021938.video ] ",
+    "time" : {
+      "start" : 1590660357698,
+      "stop" : 1590660357698,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ Distributor:Summerhill Ent. ] Matched With Portal Data [ Distributor:Summerhill Ent. ] ]",
+    "title" : "WOP Data [ Distributor:Summerhill Ent. ] Matched With Portal Data [ Distributor:Summerhill Ent. ] ",
+    "time" : {
+      "start" : 1590660357700,
+      "stop" : 1590660357700,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ AMCNIDAudio:LSIT01021938.1.English.OA ] Matched With Portal Data [ AMCNIDAudio:LSIT01021938.1.English...]",
+    "title" : "WOP Data [ AMCNIDAudio:LSIT01021938.1.English.OA ] Matched With Portal Data [ AMCNIDAudio:LSIT01021938.1.English.OA ] ",
+    "time" : {
+      "start" : 1590660357701,
+      "stop" : 1590660357701,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ ExpectedLanguage:English ] Matched With Portal Data [ ExpectedLanguage:English ] ]",
+    "title" : "WOP Data [ ExpectedLanguage:English ] Matched With Portal Data [ ExpectedLanguage:English ] ",
+    "time" : {
+      "start" : 1590660357702,
+      "stop" : 1590660357702,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ ExpectedChannel1-2:Stereo ] Matched With Portal Data [ ExpectedChannel1-2:Stereo ] ]",
+    "title" : "WOP Data [ ExpectedChannel1-2:Stereo ] Matched With Portal Data [ ExpectedChannel1-2:Stereo ] ",
+    "time" : {
+      "start" : 1590660357702,
+      "stop" : 1590660357702,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ EpisodeVersionType:Production Master-Combo ] Matched With Portal Data [ EpisodeVersionType:Production...]",
+    "title" : "WOP Data [ EpisodeVersionType:Production Master-Combo ] Matched With Portal Data [ EpisodeVersionType:Production Master-...",
+    "time" : {
+      "start" : 1590660357703,
+      "stop" : 1590660357703,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ AMCNID:RLA178240.2 ] Matched With Portal Data [ AMCNID:RLA178240.2 ] ]",
+    "title" : "WOP Data [ AMCNID:RLA178240.2 ] Matched With Portal Data [ AMCNID:RLA178240.2 ] ",
+    "time" : {
+      "start" : 1590660357703,
+      "stop" : 1590660357703,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ ExpectedScanType:Interlaced ] Matched With Portal Data [ ExpectedScanType:Interlaced ] ]",
+    "title" : "WOP Data [ ExpectedScanType:Interlaced ] Matched With Portal Data [ ExpectedScanType:Interlaced ] ",
+    "time" : {
+      "start" : 1590660357703,
+      "stop" : 1590660357703,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ ExpectedSegments:3 ] Matched With Portal Data [ ExpectedSegments:3 ] ]",
+    "title" : "WOP Data [ ExpectedSegments:3 ] Matched With Portal Data [ ExpectedSegments:3 ] ",
+    "time" : {
+      "start" : 1590660357704,
+      "stop" : 1590660357704,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ ExpectedVideoCodec:DNx HD (SMPTE VC-3) ] Matched With Portal Data [ ExpectedVideoCodec:DNx HD (SMPTE ...]",
+    "title" : "WOP Data [ ExpectedVideoCodec:DNx HD (SMPTE VC-3) ] Matched With Portal Data [ ExpectedVideoCodec:DNx HD (SMPTE VC-3) ] ",
+    "time" : {
+      "start" : 1590660357704,
+      "stop" : 1590660357704,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ ExpectedAspectRatio:1.78 ] Matched With Portal Data [ ExpectedAspectRatio:1.78 ] ]",
+    "title" : "WOP Data [ ExpectedAspectRatio:1.78 ] Matched With Portal Data [ ExpectedAspectRatio:1.78 ] ",
+    "time" : {
+      "start" : 1590660357705,
+      "stop" : 1590660357705,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ ExpectedFormat:HD ] Matched With Portal Data [ ExpectedFormat:HD ] ]",
+    "title" : "WOP Data [ ExpectedFormat:HD ] Matched With Portal Data [ ExpectedFormat:HD ] ",
+    "time" : {
+      "start" : 1590660357705,
+      "stop" : 1590660357705,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ Supplier:Miramax ] Matched With Portal Data [ Supplier:Miramax ] ]",
+    "title" : "WOP Data [ Supplier:Miramax ] Matched With Portal Data [ Supplier:Miramax ] ",
+    "time" : {
+      "start" : 1590660357705,
+      "stop" : 1590660357705,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ MatID:LSIT01021938 ] Matched With Portal Data [ MatID:LSIT01021938 ] ]",
+    "title" : "WOP Data [ MatID:LSIT01021938 ] Matched With Portal Data [ MatID:LSIT01021938 ] ",
+    "time" : {
+      "start" : 1590660357706,
+      "stop" : 1590660357706,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "testSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "testGroup",
+    "value" : "Testclasess"
+  }, {
+    "name" : "testMethod",
+    "value" : "WOPtoPortalEpisodeDataTest"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "14756@MONO-HYD-LAP-41.main(1)"
+  }, {
+    "name" : "testClass",
+    "value" : "com.amc.Testclasess.execute.WOP_PortalComparisionTest"
+  }, {
+    "name" : "story",
+    "value" : "Portal"
+  }, {
+    "name" : "suite-name",
+    "value" : "Suite : Testclasess"
+  }, {
+    "name" : "suite-title",
+    "value" : "Suite : Testclasess"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "feature",
+    "value" : "Edit Work Order"
+  }, {
+    "name" : "host",
+    "value" : "MONO-HYD-LAP-41"
+  } ],
+  "parameters" : [ ]
+}

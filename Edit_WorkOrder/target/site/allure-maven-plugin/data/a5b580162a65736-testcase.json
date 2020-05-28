@@ -1,0 +1,80 @@
+{
+  "uid" : "a5b580162a65736",
+  "name" : "WOPtoPortalGeneralEditWorkOrderTest",
+  "title" : "WOP to Portal General Edit WorkOrder Validations",
+  "time" : {
+    "start" : 1590660309355,
+    "stop" : 1590660309357,
+    "duration" : 2
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 1
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "bc530331edd283e",
+    "name" : "Suite : Testclasess",
+    "title" : "Suite : Testclasess"
+  },
+  "steps" : [ {
+    "name" : "logStep[WOP General Edit Work Order [ GeneralEditWorkOrderTitle:Crazy For Love: 112: Amary & Yasin ] Matched With Portal...]",
+    "title" : "WOP General Edit Work Order [ GeneralEditWorkOrderTitle:Crazy For Love: 112: Amary & Yasin ] Matched With Portal General...",
+    "time" : {
+      "start" : 1590660309356,
+      "stop" : 1590660309356,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "testSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "testGroup",
+    "value" : "Testclasess"
+  }, {
+    "name" : "testMethod",
+    "value" : "WOPtoPortalGeneralEditWorkOrderTest"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "14756@MONO-HYD-LAP-41.main(1)"
+  }, {
+    "name" : "story",
+    "value" : "Portal"
+  }, {
+    "name" : "suite-name",
+    "value" : "Suite : Testclasess"
+  }, {
+    "name" : "suite-title",
+    "value" : "Suite : Testclasess"
+  }, {
+    "name" : "testClass",
+    "value" : "com.amc.Testclasess.execute.WOPtoPortalGeneralCompareTest"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "feature",
+    "value" : "Edit Work Order"
+  }, {
+    "name" : "host",
+    "value" : "MONO-HYD-LAP-41"
+  } ],
+  "parameters" : [ ]
+}

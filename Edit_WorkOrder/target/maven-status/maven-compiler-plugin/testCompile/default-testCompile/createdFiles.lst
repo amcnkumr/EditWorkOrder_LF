@@ -1,0 +1,17 @@
+com\amc\Testclasess\execute\WOP_MPComparisionTest.class
+com\amc\Testclasess\execute\WOPtoPortalTempoCompareTest.class
+com\amc\Testclasess\execute\WOPEpisodeVersionTest.class
+com\amc\Testclasess\execute\GeneralEditWorkComparisionTest.class
+com\amc\Testclasess\execute\WOP_PortalComparisionTest.class
+com\amc\Testclasess\execute\WOPtoPortalGeneralCompareTest.class
+com\amc\testcases\DynamicTestNG.class
+com\amc\Testclasess\execute\DataBaseTest.class
+com\amc\Testclasess\execute\MPEpisodeVerstionTest.class
+com\amc\Testclasess\execute\WOP_launchAndLogin.class
+com\amc\Testclasess\execute\RecordLocatorTest.class
+com\amc\Testclasess\execute\ViewEditOrdersTest.class
+com\amc\Testclasess\execute\TempoEditWorkComparisionTest.class
+com\amc\Testclasess\execute\DryRun.class
+com\amc\testcases\WopIntegration.class
+com\amc\Testclasess\execute\MP_launchAndLogin.class
+com\amc\Testclasess\execute\PortalLoginTest.class

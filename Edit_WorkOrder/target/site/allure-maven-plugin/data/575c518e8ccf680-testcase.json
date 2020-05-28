@@ -1,0 +1,95 @@
+{
+  "uid" : "575c518e8ccf680",
+  "name" : "MPEpisodeVersionTest",
+  "title" : "WOP to MP Integration",
+  "time" : {
+    "start" : 1590659922696,
+    "stop" : 1590660265207,
+    "duration" : 342511
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 2
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "bc530331edd283e",
+    "name" : "Suite : Testclasess",
+    "title" : "Suite : Testclasess"
+  },
+  "steps" : [ {
+    "name" : "logStep[WOP to MP Integration is Success]",
+    "title" : "WOP to MP Integration is Success",
+    "time" : {
+      "start" : 1590659960893,
+      "stop" : 1590659960893,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP to MP Integration Data:RLA178240.2]",
+    "title" : "WOP to MP Integration Data:RLA178240.2",
+    "time" : {
+      "start" : 1590659960893,
+      "stop" : 1590659960893,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "testSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "testGroup",
+    "value" : "Testclasess"
+  }, {
+    "name" : "testClass",
+    "value" : "com.amc.Testclasess.execute.MPEpisodeVerstionTest"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "14756@MONO-HYD-LAP-41.main(1)"
+  }, {
+    "name" : "story",
+    "value" : "MP"
+  }, {
+    "name" : "suite-name",
+    "value" : "Suite : Testclasess"
+  }, {
+    "name" : "suite-title",
+    "value" : "Suite : Testclasess"
+  }, {
+    "name" : "testMethod",
+    "value" : "MPEpisodeVersionTest"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "feature",
+    "value" : "Edit Work Order"
+  }, {
+    "name" : "host",
+    "value" : "MONO-HYD-LAP-41"
+  } ],
+  "parameters" : [ ]
+}

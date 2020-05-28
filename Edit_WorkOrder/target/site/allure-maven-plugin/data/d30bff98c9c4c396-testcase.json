@@ -1,0 +1,65 @@
+{
+  "uid" : "d30bff98c9c4c396",
+  "name" : "WOPtoPortalTempoEditWorkOrderTest",
+  "title" : "WOP to Portal Tempo Edit WorkOrder Validations",
+  "time" : {
+    "start" : 1590660309358,
+    "stop" : 1590660309359,
+    "duration" : 1
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "bc530331edd283e",
+    "name" : "Suite : Testclasess",
+    "title" : "Suite : Testclasess"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "testSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "testGroup",
+    "value" : "Testclasess"
+  }, {
+    "name" : "testClass",
+    "value" : "com.amc.Testclasess.execute.WOPtoPortalTempoCompareTest"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "14756@MONO-HYD-LAP-41.main(1)"
+  }, {
+    "name" : "testMethod",
+    "value" : "WOPtoPortalTempoEditWorkOrderTest"
+  }, {
+    "name" : "story",
+    "value" : "Portal"
+  }, {
+    "name" : "suite-name",
+    "value" : "Suite : Testclasess"
+  }, {
+    "name" : "suite-title",
+    "value" : "Suite : Testclasess"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "feature",
+    "value" : "Edit Work Order"
+  }, {
+    "name" : "host",
+    "value" : "MONO-HYD-LAP-41"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,110 @@
+{
+  "uid" : "c5c4bfff67c69085",
+  "name" : "DataBaseConnectionTest",
+  "title" : "Connecting to DataBase and Mediator",
+  "time" : {
+    "start" : 1590660357707,
+    "stop" : 1590660362470,
+    "duration" : 4763
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 3
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "bc530331edd283e",
+    "name" : "Suite : Testclasess",
+    "title" : "Suite : Testclasess"
+  },
+  "steps" : [ {
+    "name" : "logStep[Connected to Databse]",
+    "title" : "Connected to Databse",
+    "time" : {
+      "start" : 1590660360938,
+      "stop" : 1590660360938,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[Login to Mediator Successfull]",
+    "title" : "Login to Mediator Successfull",
+    "time" : {
+      "start" : 1590660362469,
+      "stop" : 1590660362469,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP to MP to Portal to Mediator Integration is Success : 3]",
+    "title" : "WOP to MP to Portal to Mediator Integration is Success : 3",
+    "time" : {
+      "start" : 1590660362469,
+      "stop" : 1590660362469,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "testSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "testGroup",
+    "value" : "Testclasess"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "14756@MONO-HYD-LAP-41.main(1)"
+  }, {
+    "name" : "testMethod",
+    "value" : "DataBaseConnectionTest"
+  }, {
+    "name" : "suite-name",
+    "value" : "Suite : Testclasess"
+  }, {
+    "name" : "testClass",
+    "value" : "com.amc.Testclasess.execute.DataBaseTest"
+  }, {
+    "name" : "suite-title",
+    "value" : "Suite : Testclasess"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "story",
+    "value" : "Mediator"
+  }, {
+    "name" : "feature",
+    "value" : "Edit Work Order"
+  }, {
+    "name" : "host",
+    "value" : "MONO-HYD-LAP-41"
+  } ],
+  "parameters" : [ ]
+}

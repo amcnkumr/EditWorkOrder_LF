@@ -1,0 +1,125 @@
+{
+  "uid" : "73964c5bf61805ec",
+  "name" : "WOPtoMPGeneralEditWorkOrderTest",
+  "title" : "WOP to MP General Edit WorkOrder Validations",
+  "time" : {
+    "start" : 1590660265210,
+    "stop" : 1590660267213,
+    "duration" : 2003
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 4
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "bc530331edd283e",
+    "name" : "Suite : Testclasess",
+    "title" : "Suite : Testclasess"
+  },
+  "steps" : [ {
+    "name" : "logStep[General Edit Work Order Integration is succes:SourceAsset_1:79719]",
+    "title" : "General Edit Work Order Integration is succes:SourceAsset_1:79719",
+    "time" : {
+      "start" : 1590660267212,
+      "stop" : 1590660267212,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP General Edit Work Order [ RequestedTRT:01:00:00 ] Matched With MP General Edit Work Order [ RequestedTRT:01:...]",
+    "title" : "WOP General Edit Work Order [ RequestedTRT:01:00:00 ] Matched With MP General Edit Work Order [ RequestedTRT:01:00:00 ] ",
+    "time" : {
+      "start" : 1590660267212,
+      "stop" : 1590660267212,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP General Edit Work Order [ VariSpeedType:Compression ] Matched With MP General Edit Work Order [ VarispeedTyp...]",
+    "title" : "WOP General Edit Work Order [ VariSpeedType:Compression ] Matched With MP General Edit Work Order [ VarispeedType:Compre...",
+    "time" : {
+      "start" : 1590660267213,
+      "stop" : 1590660267213,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP General Edit Work Order [ MAVersionType:Final TX - Varispeed ] Matched With MP General Edit Work Order [ MAV...]",
+    "title" : "WOP General Edit Work Order [ MAVersionType:Final TX - Varispeed ] Matched With MP General Edit Work Order [ MAVersionTy...",
+    "time" : {
+      "start" : 1590660267213,
+      "stop" : 1590660267213,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "testSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "testGroup",
+    "value" : "Testclasess"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "14756@MONO-HYD-LAP-41.main(1)"
+  }, {
+    "name" : "story",
+    "value" : "MP"
+  }, {
+    "name" : "suite-name",
+    "value" : "Suite : Testclasess"
+  }, {
+    "name" : "testMethod",
+    "value" : "WOPtoMPGeneralEditWorkOrderTest"
+  }, {
+    "name" : "suite-title",
+    "value" : "Suite : Testclasess"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "testClass",
+    "value" : "com.amc.Testclasess.execute.GeneralEditWorkComparisionTest"
+  }, {
+    "name" : "feature",
+    "value" : "Edit Work Order"
+  }, {
+    "name" : "host",
+    "value" : "MONO-HYD-LAP-41"
+  } ],
+  "parameters" : [ ]
+}

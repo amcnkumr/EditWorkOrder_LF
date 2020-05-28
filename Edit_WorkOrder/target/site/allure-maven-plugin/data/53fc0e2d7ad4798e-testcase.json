@@ -1,0 +1,425 @@
+{
+  "uid" : "53fc0e2d7ad4798e",
+  "name" : "WOPtoMPEpisodeDataTest",
+  "title" : "WOP to MP Episode Data Validations",
+  "time" : {
+    "start" : 1590660269219,
+    "stop" : 1590660271230,
+    "duration" : 2011
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 24
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "bc530331edd283e",
+    "name" : "Suite : Testclasess",
+    "title" : "Suite : Testclasess"
+  },
+  "steps" : [ {
+    "name" : "logStep[WOP Data [ ProductionMode:Scripted ] Matched With MP Data [ ProductionMode:Scripted ] ]",
+    "title" : "WOP Data [ ProductionMode:Scripted ] Matched With MP Data [ ProductionMode:Scripted ] ",
+    "time" : {
+      "start" : 1590660271220,
+      "stop" : 1590660271220,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ EpisodeNumber:01-012 ] Matched With MP Data [ EpisodeNumber:01-012 ] ]",
+    "title" : "WOP Data [ EpisodeNumber:01-012 ] Matched With MP Data [ EpisodeNumber:01-012 ] ",
+    "time" : {
+      "start" : 1590660271220,
+      "stop" : 1590660271220,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ AiringOrder:12 ] Matched With MP Data [ AiringOrder:12 ] ]",
+    "title" : "WOP Data [ AiringOrder:12 ] Matched With MP Data [ AiringOrder:12 ] ",
+    "time" : {
+      "start" : 1590660271221,
+      "stop" : 1590660271221,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ ShowType:Series ] Matched With MP Data [ ShowType:Series ] ]",
+    "title" : "WOP Data [ ShowType:Series ] Matched With MP Data [ ShowType:Series ] ",
+    "time" : {
+      "start" : 1590660271221,
+      "stop" : 1590660271221,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ EditRestricted:Non Restricted (NR) ] Matched With MP Data [ EditRestricted:Non Restricted (NR) ] ]",
+    "title" : "WOP Data [ EditRestricted:Non Restricted (NR) ] Matched With MP Data [ EditRestricted:Non Restricted (NR) ] ",
+    "time" : {
+      "start" : 1590660271221,
+      "stop" : 1590660271221,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ Ownernetwork:AMC ] Matched With MP Data [ Ownernetwork:AMC ] ]",
+    "title" : "WOP Data [ Ownernetwork:AMC ] Matched With MP Data [ Ownernetwork:AMC ] ",
+    "time" : {
+      "start" : 1590660271222,
+      "stop" : 1590660271222,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ Title:Crazy For Love: 112: Amary & Yasin ] Matched With MP Data [ Title:Crazy For Love: 112: Amary & ...]",
+    "title" : "WOP Data [ Title:Crazy For Love: 112: Amary & Yasin ] Matched With MP Data [ Title:Crazy For Love: 112: Amary & Yasin ] ",
+    "time" : {
+      "start" : 1590660271222,
+      "stop" : 1590660271222,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ MAVersionType:Final TX - Master ] Matched With MP Data [ MAVersionType:Final TX - Master ] ]",
+    "title" : "WOP Data [ MAVersionType:Final TX - Master ] Matched With MP Data [ MAVersionType:Final TX - Master ] ",
+    "time" : {
+      "start" : 1590660271223,
+      "stop" : 1590660271223,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ Color/B&W:Color/B&W ] Matched With MP Data [ Color/B&W:Color/B&W ] ]",
+    "title" : "WOP Data [ Color/B&W:Color/B&W ] Matched With MP Data [ Color/B&W:Color/B&W ] ",
+    "time" : {
+      "start" : 1590660271223,
+      "stop" : 1590660271223,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ AMCNIDVideo:LSIT01021938.video ] Matched With MP Data [ AMCNIDVideo:LSIT01021938.video ] ]",
+    "title" : "WOP Data [ AMCNIDVideo:LSIT01021938.video ] Matched With MP Data [ AMCNIDVideo:LSIT01021938.video ] ",
+    "time" : {
+      "start" : 1590660271224,
+      "stop" : 1590660271224,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ AssetSource:Acquired ] Matched With MP Data [ AssetSource:Acquired ] ]",
+    "title" : "WOP Data [ AssetSource:Acquired ] Matched With MP Data [ AssetSource:Acquired ] ",
+    "time" : {
+      "start" : 1590660271224,
+      "stop" : 1590660271224,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ TheatricalLength:00:30:00 ] Matched With MP Data [ TheatricalLength:00:30:00 ] ]",
+    "title" : "WOP Data [ TheatricalLength:00:30:00 ] Matched With MP Data [ TheatricalLength:00:30:00 ] ",
+    "time" : {
+      "start" : 1590660271224,
+      "stop" : 1590660271224,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ AMCNIDAudio:LSIT01021938.1.English.OA ] Matched With MP Data [ AMCNIDAudio:LSIT01021938.1.English.OA ...]",
+    "title" : "WOP Data [ AMCNIDAudio:LSIT01021938.1.English.OA ] Matched With MP Data [ AMCNIDAudio:LSIT01021938.1.English.OA ] ",
+    "time" : {
+      "start" : 1590660271225,
+      "stop" : 1590660271225,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ FileStatus:Awaiting Media ] Matched With MP Data [ FileStatus:Awaiting Media ] ]",
+    "title" : "WOP Data [ FileStatus:Awaiting Media ] Matched With MP Data [ FileStatus:Awaiting Media ] ",
+    "time" : {
+      "start" : 1590660271225,
+      "stop" : 1590660271225,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ ExpectedChannel1-2:Stereo ] Matched With MP Data [ ExpectedChannel1-2:Stereo ] ]",
+    "title" : "WOP Data [ ExpectedChannel1-2:Stereo ] Matched With MP Data [ ExpectedChannel1-2:Stereo ] ",
+    "time" : {
+      "start" : 1590660271226,
+      "stop" : 1590660271226,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ EpisodeVersionType:Production Master-Combo ] Matched With MP Data [ EpisodeVersionType:Production Mas...]",
+    "title" : "WOP Data [ EpisodeVersionType:Production Master-Combo ] Matched With MP Data [ EpisodeVersionType:Production Master-Comb...",
+    "time" : {
+      "start" : 1590660271226,
+      "stop" : 1590660271226,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ AMCNID:RLA178240.2 ] Matched With MP Data [ AMCNID:RLA178240.2 ] ]",
+    "title" : "WOP Data [ AMCNID:RLA178240.2 ] Matched With MP Data [ AMCNID:RLA178240.2 ] ",
+    "time" : {
+      "start" : 1590660271227,
+      "stop" : 1590660271227,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ ExpectedScanType:Interlaced ] Matched With MP Data [ ExpectedScanType:Interlaced ] ]",
+    "title" : "WOP Data [ ExpectedScanType:Interlaced ] Matched With MP Data [ ExpectedScanType:Interlaced ] ",
+    "time" : {
+      "start" : 1590660271227,
+      "stop" : 1590660271227,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ ExpectedSegments:3 ] Matched With MP Data [ ExpectedSegments:3 ] ]",
+    "title" : "WOP Data [ ExpectedSegments:3 ] Matched With MP Data [ ExpectedSegments:3 ] ",
+    "time" : {
+      "start" : 1590660271227,
+      "stop" : 1590660271227,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ ExpectedVideoCodec:DNx HD (SMPTE VC-3) ] Matched With MP Data [ ExpectedVideoCodec:DNx HD (SMPTE VC-3...]",
+    "title" : "WOP Data [ ExpectedVideoCodec:DNx HD (SMPTE VC-3) ] Matched With MP Data [ ExpectedVideoCodec:DNx HD (SMPTE VC-3) ] ",
+    "time" : {
+      "start" : 1590660271228,
+      "stop" : 1590660271228,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ ExpectedAspectRatio:1.78 ] Matched With MP Data [ ExpectedAspectRatio:1.78 ] ]",
+    "title" : "WOP Data [ ExpectedAspectRatio:1.78 ] Matched With MP Data [ ExpectedAspectRatio:1.78 ] ",
+    "time" : {
+      "start" : 1590660271228,
+      "stop" : 1590660271228,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ ExpectedFormat:HD ] Matched With MP Data [ ExpectedFormat:HD ] ]",
+    "title" : "WOP Data [ ExpectedFormat:HD ] Matched With MP Data [ ExpectedFormat:HD ] ",
+    "time" : {
+      "start" : 1590660271228,
+      "stop" : 1590660271228,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ Supplier:Miramax ] Matched With MP Data [ Supplier:Miramax ] ]",
+    "title" : "WOP Data [ Supplier:Miramax ] Matched With MP Data [ Supplier:Miramax ] ",
+    "time" : {
+      "start" : 1590660271229,
+      "stop" : 1590660271229,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Data [ MatID:LSIT01021938 ] Matched With MP Data [ MatID:LSIT01021938 ] ]",
+    "title" : "WOP Data [ MatID:LSIT01021938 ] Matched With MP Data [ MatID:LSIT01021938 ] ",
+    "time" : {
+      "start" : 1590660271229,
+      "stop" : 1590660271229,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "testSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "testGroup",
+    "value" : "Testclasess"
+  }, {
+    "name" : "testClass",
+    "value" : "com.amc.Testclasess.execute.WOP_MPComparisionTest"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "14756@MONO-HYD-LAP-41.main(1)"
+  }, {
+    "name" : "story",
+    "value" : "MP"
+  }, {
+    "name" : "testMethod",
+    "value" : "WOPtoMPEpisodeDataTest"
+  }, {
+    "name" : "suite-name",
+    "value" : "Suite : Testclasess"
+  }, {
+    "name" : "suite-title",
+    "value" : "Suite : Testclasess"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "feature",
+    "value" : "Edit Work Order"
+  }, {
+    "name" : "host",
+    "value" : "MONO-HYD-LAP-41"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1590659380712" stop="1590660362504" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : Testclasess</name>
+    <title>Suite : Testclasess</title>
+    <test-cases>
+        <test-case start="1590659380718" stop="1590659421064" status="passed">
+            <name>PortalLogin</name>
+            <title>Portal Login And Launch </title>
+            <steps>
+                <step start="1590659416061" stop="1590659416062" status="passed">
+                    <name>logStep[Portal Login Successful..]</name>
+                    <title>Portal Login Successful..</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Testclasess"/>
+                <label name="testClass" value="com.amc.Testclasess.execute.PortalLoginTest"/>
+                <label name="testMethod" value="PortalLogin"/>
+                <label name="story" value="Portal"/>
+                <label name="feature" value="Edit Work Order"/>
+                <label name="host" value="MONO-HYD-LAP-41"/>
+                <label name="thread" value="14756@MONO-HYD-LAP-41.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1590659421071" stop="1590659922693" status="passed">
+            <name>wopEpisodeVersionCreation</name>
+            <title>WOP Episode version Creation</title>
+            <steps>
+                <step start="1590659568041" stop="1590659568041" status="passed">
+                    <name>logStep[Episode Verison Creation is Success]</name>
+                    <title>Episode Verison Creation is Success</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590659799376" stop="1590659799376" status="passed">
+                    <name>logStep[Created Media Asset In WOP Business System:Automation_LF prototype]</name>
+                    <title>Created Media Asset In WOP Business System:Automation_LF prototype</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590659853898" stop="1590659853898" status="passed">
+                    <name>logStep[WOP Services Up And Running :RLA178240.2]</name>
+                    <title>WOP Services Up And Running :RLA178240.2</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Testclasess"/>
+                <label name="testClass" value="com.amc.Testclasess.execute.WOPEpisodeVersionTest"/>
+                <label name="testMethod" value="wopEpisodeVersionCreation"/>
+                <label name="story" value="WOP"/>
+                <label name="feature" value="Edit Work Order"/>
+                <label name="host" value="MONO-HYD-LAP-41"/>
+                <label name="thread" value="14756@MONO-HYD-LAP-41.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1590659922696" stop="1590660265207" status="passed">
+            <name>MPEpisodeVersionTest</name>
+            <title>WOP to MP Integration</title>
+            <steps>
+                <step start="1590659960893" stop="1590659960893" status="passed">
+                    <name>logStep[WOP to MP Integration is Success]</name>
+                    <title>WOP to MP Integration is Success</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590659960893" stop="1590659960893" status="passed">
+                    <name>logStep[WOP to MP Integration Data:RLA178240.2]</name>
+                    <title>WOP to MP Integration Data:RLA178240.2</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Testclasess"/>
+                <label name="testClass" value="com.amc.Testclasess.execute.MPEpisodeVerstionTest"/>
+                <label name="testMethod" value="MPEpisodeVersionTest"/>
+                <label name="story" value="MP"/>
+                <label name="feature" value="Edit Work Order"/>
+                <label name="host" value="MONO-HYD-LAP-41"/>
+                <label name="thread" value="14756@MONO-HYD-LAP-41.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1590660265210" stop="1590660267213" status="passed">
+            <name>WOPtoMPGeneralEditWorkOrderTest</name>
+            <title>WOP to MP General Edit WorkOrder Validations</title>
+            <steps>
+                <step start="1590660267212" stop="1590660267212" status="passed">
+                    <name>logStep[General Edit Work Order Integration is succes:SourceAsset_1:79719]</name>
+                    <title>General Edit Work Order Integration is succes:SourceAsset_1:79719</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660267212" stop="1590660267212" status="passed">
+                    <name>logStep[WOP General Edit Work Order [ RequestedTRT:01:00:00 ] Matched With MP General Edit Work Order [ RequestedTRT:01:...]</name>
+                    <title>WOP General Edit Work Order [ RequestedTRT:01:00:00 ] Matched With MP General Edit Work Order [ RequestedTRT:01:00:00 ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660267213" stop="1590660267213" status="passed">
+                    <name>logStep[WOP General Edit Work Order [ VariSpeedType:Compression ] Matched With MP General Edit Work Order [ VarispeedTyp...]</name>
+                    <title>WOP General Edit Work Order [ VariSpeedType:Compression ] Matched With MP General Edit Work Order [ VarispeedType:Compre...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660267213" stop="1590660267213" status="passed">
+                    <name>logStep[WOP General Edit Work Order [ MAVersionType:Final TX - Varispeed ] Matched With MP General Edit Work Order [ MAV...]</name>
+                    <title>WOP General Edit Work Order [ MAVersionType:Final TX - Varispeed ] Matched With MP General Edit Work Order [ MAVersionTy...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Testclasess"/>
+                <label name="testClass" value="com.amc.Testclasess.execute.GeneralEditWorkComparisionTest"/>
+                <label name="testMethod" value="WOPtoMPGeneralEditWorkOrderTest"/>
+                <label name="story" value="MP"/>
+                <label name="feature" value="Edit Work Order"/>
+                <label name="host" value="MONO-HYD-LAP-41"/>
+                <label name="thread" value="14756@MONO-HYD-LAP-41.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1590660267214" stop="1590660269218" status="passed">
+            <name>WOPtoMPTempoEditWorkOrderTest</name>
+            <title>WOP to MP Tempo Edit WorkOrder Validations</title>
+            <steps>
+                <step start="1590660269217" stop="1590660269217" status="passed">
+                    <name>logStep[Tempo Edit Work Order Integration is succes:SourceAsset_1:79719]</name>
+                    <title>Tempo Edit Work Order Integration is succes:SourceAsset_1:79719</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660269217" stop="1590660269217" status="passed">
+                    <name>logStep[WOP Tempo Edit Work Order [ RequestedTRT:01:40:00 ] Matched With MP Tempo Edit Work Order [ RequestedTRT:01:40:0...]</name>
+                    <title>WOP Tempo Edit Work Order [ RequestedTRT:01:40:00 ] Matched With MP Tempo Edit Work Order [ RequestedTRT:01:40:00 ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660269217" stop="1590660269218" status="passed">
+                    <name>logStep[WOP Tempo Edit Work Order [ VariSpeedType:Expansion ] Matched With MP Tempo Edit Work Order [ VarispeedType:Expa...]</name>
+                    <title>WOP Tempo Edit Work Order [ VariSpeedType:Expansion ] Matched With MP Tempo Edit Work Order [ VarispeedType:Expansion ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660269218" stop="1590660269218" status="passed">
+                    <name>logStep[WOP Tempo Edit Work Order [ MAVersionType:Final TX - Varispeed ] Matched With MP Tempo Edit Work Order [ MAVersi...]</name>
+                    <title>WOP Tempo Edit Work Order [ MAVersionType:Final TX - Varispeed ] Matched With MP Tempo Edit Work Order [ MAVersionType:F...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Testclasess"/>
+                <label name="testClass" value="com.amc.Testclasess.execute.TempoEditWorkComparisionTest"/>
+                <label name="testMethod" value="WOPtoMPTempoEditWorkOrderTest"/>
+                <label name="story" value="MP"/>
+                <label name="feature" value="Edit Work Order"/>
+                <label name="host" value="MONO-HYD-LAP-41"/>
+                <label name="thread" value="14756@MONO-HYD-LAP-41.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1590660269219" stop="1590660271230" status="passed">
+            <name>WOPtoMPEpisodeDataTest</name>
+            <title>WOP to MP Episode Data Validations</title>
+            <steps>
+                <step start="1590660271220" stop="1590660271220" status="passed">
+                    <name>logStep[WOP Data [ ProductionMode:Scripted ] Matched With MP Data [ ProductionMode:Scripted ] ]</name>
+                    <title>WOP Data [ ProductionMode:Scripted ] Matched With MP Data [ ProductionMode:Scripted ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660271220" stop="1590660271220" status="passed">
+                    <name>logStep[WOP Data [ EpisodeNumber:01-012 ] Matched With MP Data [ EpisodeNumber:01-012 ] ]</name>
+                    <title>WOP Data [ EpisodeNumber:01-012 ] Matched With MP Data [ EpisodeNumber:01-012 ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660271221" stop="1590660271221" status="passed">
+                    <name>logStep[WOP Data [ AiringOrder:12 ] Matched With MP Data [ AiringOrder:12 ] ]</name>
+                    <title>WOP Data [ AiringOrder:12 ] Matched With MP Data [ AiringOrder:12 ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660271221" stop="1590660271221" status="passed">
+                    <name>logStep[WOP Data [ ShowType:Series ] Matched With MP Data [ ShowType:Series ] ]</name>
+                    <title>WOP Data [ ShowType:Series ] Matched With MP Data [ ShowType:Series ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660271221" stop="1590660271221" status="passed">
+                    <name>logStep[WOP Data [ EditRestricted:Non Restricted (NR) ] Matched With MP Data [ EditRestricted:Non Restricted (NR) ] ]</name>
+                    <title>WOP Data [ EditRestricted:Non Restricted (NR) ] Matched With MP Data [ EditRestricted:Non Restricted (NR) ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660271222" stop="1590660271222" status="passed">
+                    <name>logStep[WOP Data [ Ownernetwork:AMC ] Matched With MP Data [ Ownernetwork:AMC ] ]</name>
+                    <title>WOP Data [ Ownernetwork:AMC ] Matched With MP Data [ Ownernetwork:AMC ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660271222" stop="1590660271222" status="passed">
+                    <name>logStep[WOP Data [ Title:Crazy For Love: 112: Amary &amp; Yasin ] Matched With MP Data [ Title:Crazy For Love: 112: Amary &amp; ...]</name>
+                    <title>WOP Data [ Title:Crazy For Love: 112: Amary &amp; Yasin ] Matched With MP Data [ Title:Crazy For Love: 112: Amary &amp; Yasin ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660271223" stop="1590660271223" status="passed">
+                    <name>logStep[WOP Data [ MAVersionType:Final TX - Master ] Matched With MP Data [ MAVersionType:Final TX - Master ] ]</name>
+                    <title>WOP Data [ MAVersionType:Final TX - Master ] Matched With MP Data [ MAVersionType:Final TX - Master ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660271223" stop="1590660271223" status="passed">
+                    <name>logStep[WOP Data [ Color/B&amp;W:Color/B&amp;W ] Matched With MP Data [ Color/B&amp;W:Color/B&amp;W ] ]</name>
+                    <title>WOP Data [ Color/B&amp;W:Color/B&amp;W ] Matched With MP Data [ Color/B&amp;W:Color/B&amp;W ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660271224" stop="1590660271224" status="passed">
+                    <name>logStep[WOP Data [ AMCNIDVideo:LSIT01021938.video ] Matched With MP Data [ AMCNIDVideo:LSIT01021938.video ] ]</name>
+                    <title>WOP Data [ AMCNIDVideo:LSIT01021938.video ] Matched With MP Data [ AMCNIDVideo:LSIT01021938.video ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660271224" stop="1590660271224" status="passed">
+                    <name>logStep[WOP Data [ AssetSource:Acquired ] Matched With MP Data [ AssetSource:Acquired ] ]</name>
+                    <title>WOP Data [ AssetSource:Acquired ] Matched With MP Data [ AssetSource:Acquired ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660271224" stop="1590660271224" status="passed">
+                    <name>logStep[WOP Data [ TheatricalLength:00:30:00 ] Matched With MP Data [ TheatricalLength:00:30:00 ] ]</name>
+                    <title>WOP Data [ TheatricalLength:00:30:00 ] Matched With MP Data [ TheatricalLength:00:30:00 ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660271225" stop="1590660271225" status="passed">
+                    <name>logStep[WOP Data [ AMCNIDAudio:LSIT01021938.1.English.OA ] Matched With MP Data [ AMCNIDAudio:LSIT01021938.1.English.OA ...]</name>
+                    <title>WOP Data [ AMCNIDAudio:LSIT01021938.1.English.OA ] Matched With MP Data [ AMCNIDAudio:LSIT01021938.1.English.OA ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660271225" stop="1590660271225" status="passed">
+                    <name>logStep[WOP Data [ FileStatus:Awaiting Media ] Matched With MP Data [ FileStatus:Awaiting Media ] ]</name>
+                    <title>WOP Data [ FileStatus:Awaiting Media ] Matched With MP Data [ FileStatus:Awaiting Media ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660271226" stop="1590660271226" status="passed">
+                    <name>logStep[WOP Data [ ExpectedChannel1-2:Stereo ] Matched With MP Data [ ExpectedChannel1-2:Stereo ] ]</name>
+                    <title>WOP Data [ ExpectedChannel1-2:Stereo ] Matched With MP Data [ ExpectedChannel1-2:Stereo ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660271226" stop="1590660271226" status="passed">
+                    <name>logStep[WOP Data [ EpisodeVersionType:Production Master-Combo ] Matched With MP Data [ EpisodeVersionType:Production Mas...]</name>
+                    <title>WOP Data [ EpisodeVersionType:Production Master-Combo ] Matched With MP Data [ EpisodeVersionType:Production Master-Comb...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660271227" stop="1590660271227" status="passed">
+                    <name>logStep[WOP Data [ AMCNID:RLA178240.2 ] Matched With MP Data [ AMCNID:RLA178240.2 ] ]</name>
+                    <title>WOP Data [ AMCNID:RLA178240.2 ] Matched With MP Data [ AMCNID:RLA178240.2 ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660271227" stop="1590660271227" status="passed">
+                    <name>logStep[WOP Data [ ExpectedScanType:Interlaced ] Matched With MP Data [ ExpectedScanType:Interlaced ] ]</name>
+                    <title>WOP Data [ ExpectedScanType:Interlaced ] Matched With MP Data [ ExpectedScanType:Interlaced ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660271227" stop="1590660271227" status="passed">
+                    <name>logStep[WOP Data [ ExpectedSegments:3 ] Matched With MP Data [ ExpectedSegments:3 ] ]</name>
+                    <title>WOP Data [ ExpectedSegments:3 ] Matched With MP Data [ ExpectedSegments:3 ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660271228" stop="1590660271228" status="passed">
+                    <name>logStep[WOP Data [ ExpectedVideoCodec:DNx HD (SMPTE VC-3) ] Matched With MP Data [ ExpectedVideoCodec:DNx HD (SMPTE VC-3...]</name>
+                    <title>WOP Data [ ExpectedVideoCodec:DNx HD (SMPTE VC-3) ] Matched With MP Data [ ExpectedVideoCodec:DNx HD (SMPTE VC-3) ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660271228" stop="1590660271228" status="passed">
+                    <name>logStep[WOP Data [ ExpectedAspectRatio:1.78 ] Matched With MP Data [ ExpectedAspectRatio:1.78 ] ]</name>
+                    <title>WOP Data [ ExpectedAspectRatio:1.78 ] Matched With MP Data [ ExpectedAspectRatio:1.78 ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660271228" stop="1590660271228" status="passed">
+                    <name>logStep[WOP Data [ ExpectedFormat:HD ] Matched With MP Data [ ExpectedFormat:HD ] ]</name>
+                    <title>WOP Data [ ExpectedFormat:HD ] Matched With MP Data [ ExpectedFormat:HD ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660271229" stop="1590660271229" status="passed">
+                    <name>logStep[WOP Data [ Supplier:Miramax ] Matched With MP Data [ Supplier:Miramax ] ]</name>
+                    <title>WOP Data [ Supplier:Miramax ] Matched With MP Data [ Supplier:Miramax ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660271229" stop="1590660271229" status="passed">
+                    <name>logStep[WOP Data [ MatID:LSIT01021938 ] Matched With MP Data [ MatID:LSIT01021938 ] ]</name>
+                    <title>WOP Data [ MatID:LSIT01021938 ] Matched With MP Data [ MatID:LSIT01021938 ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Testclasess"/>
+                <label name="testClass" value="com.amc.Testclasess.execute.WOP_MPComparisionTest"/>
+                <label name="testMethod" value="WOPtoMPEpisodeDataTest"/>
+                <label name="story" value="MP"/>
+                <label name="feature" value="Edit Work Order"/>
+                <label name="host" value="MONO-HYD-LAP-41"/>
+                <label name="thread" value="14756@MONO-HYD-LAP-41.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1590660271232" stop="1590660309352" status="passed">
+            <name>EditWorkOrderTest</name>
+            <title>WOP to Portal Edit Work Order Integration</title>
+            <steps>
+                <step start="1590660296197" stop="1590660296197" status="passed">
+                    <name>logStep[General Edit Work Order Record Integration is success]</name>
+                    <title>General Edit Work Order Record Integration is success</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660307510" stop="1590660307510" status="passed">
+                    <name>logStep[Tempo Edit Work Order Record Integration is success]</name>
+                    <title>Tempo Edit Work Order Record Integration is success</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Testclasess"/>
+                <label name="testClass" value="com.amc.Testclasess.execute.ViewEditOrdersTest"/>
+                <label name="testMethod" value="EditWorkOrderTest"/>
+                <label name="story" value="Portal"/>
+                <label name="feature" value="Edit Work Order"/>
+                <label name="host" value="MONO-HYD-LAP-41"/>
+                <label name="thread" value="14756@MONO-HYD-LAP-41.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1590660309355" stop="1590660309357" status="passed">
+            <name>WOPtoPortalGeneralEditWorkOrderTest</name>
+            <title>WOP to Portal General Edit WorkOrder Validations</title>
+            <steps>
+                <step start="1590660309356" stop="1590660309356" status="passed">
+                    <name>logStep[WOP General Edit Work Order [ GeneralEditWorkOrderTitle:Crazy For Love: 112: Amary &amp; Yasin ] Matched With Portal...]</name>
+                    <title>WOP General Edit Work Order [ GeneralEditWorkOrderTitle:Crazy For Love: 112: Amary &amp; Yasin ] Matched With Portal General...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Testclasess"/>
+                <label name="testClass" value="com.amc.Testclasess.execute.WOPtoPortalGeneralCompareTest"/>
+                <label name="testMethod" value="WOPtoPortalGeneralEditWorkOrderTest"/>
+                <label name="story" value="Portal"/>
+                <label name="feature" value="Edit Work Order"/>
+                <label name="host" value="MONO-HYD-LAP-41"/>
+                <label name="thread" value="14756@MONO-HYD-LAP-41.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1590660309358" stop="1590660309359" status="passed">
+            <name>WOPtoPortalTempoEditWorkOrderTest</name>
+            <title>WOP to Portal Tempo Edit WorkOrder Validations</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Testclasess"/>
+                <label name="testClass" value="com.amc.Testclasess.execute.WOPtoPortalTempoCompareTest"/>
+                <label name="testMethod" value="WOPtoPortalTempoEditWorkOrderTest"/>
+                <label name="story" value="Portal"/>
+                <label name="feature" value="Edit Work Order"/>
+                <label name="host" value="MONO-HYD-LAP-41"/>
+                <label name="thread" value="14756@MONO-HYD-LAP-41.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1590660309361" stop="1590660355690" status="passed">
+            <name>recordSearchField</name>
+            <title>WOP to Portal Integration</title>
+            <steps>
+                <step start="1590660332931" stop="1590660332931" status="passed">
+                    <name>logStep[ Portal Record Is : LSIT01021938]</name>
+                    <title> Portal Record Is : LSIT01021938</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660335107" stop="1590660335107" status="passed">
+                    <name>logStep[ WOP to MP to Portal Integration is Success : LSIT01021938]</name>
+                    <title> WOP to MP to Portal Integration is Success : LSIT01021938</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Testclasess"/>
+                <label name="testClass" value="com.amc.Testclasess.execute.RecordLocatorTest"/>
+                <label name="testMethod" value="recordSearchField"/>
+                <label name="story" value="Portal"/>
+                <label name="feature" value="Edit Work Order"/>
+                <label name="host" value="MONO-HYD-LAP-41"/>
+                <label name="thread" value="14756@MONO-HYD-LAP-41.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1590660355692" stop="1590660357706" status="passed">
+            <name>WOPtoPortalEpisodeDataTest</name>
+            <title>WOP to Portal Episode Data Validations</title>
+            <steps>
+                <step start="1590660357695" stop="1590660357695" status="passed">
+                    <name>logStep[WOP Data [ SecurityStatus:Open ] Matched With Portal Data [ SecurityStatus:Open ] ]</name>
+                    <title>WOP Data [ SecurityStatus:Open ] Matched With Portal Data [ SecurityStatus:Open ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660357696" stop="1590660357696" status="passed">
+                    <name>logStep[WOP Data [ Ownernetwork:AMC ] Matched With Portal Data [ Ownernetwork:AMC ] ]</name>
+                    <title>WOP Data [ Ownernetwork:AMC ] Matched With Portal Data [ Ownernetwork:AMC ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660357697" stop="1590660357697" status="passed">
+                    <name>logStep[WOP Data [ Title:Crazy For Love: 112: Amary &amp; Yasin ] Matched With Portal Data [ Title:Crazy For Love: 112: Amar...]</name>
+                    <title>WOP Data [ Title:Crazy For Love: 112: Amary &amp; Yasin ] Matched With Portal Data [ Title:Crazy For Love: 112: Amary &amp; Yasi...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660357698" stop="1590660357698" status="passed">
+                    <name>logStep[WOP Data [ AMCNIDVideo:LSIT01021938.video ] Matched With Portal Data [ AMCNIDVideo:LSIT01021938.video ] ]</name>
+                    <title>WOP Data [ AMCNIDVideo:LSIT01021938.video ] Matched With Portal Data [ AMCNIDVideo:LSIT01021938.video ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660357700" stop="1590660357700" status="passed">
+                    <name>logStep[WOP Data [ Distributor:Summerhill Ent. ] Matched With Portal Data [ Distributor:Summerhill Ent. ] ]</name>
+                    <title>WOP Data [ Distributor:Summerhill Ent. ] Matched With Portal Data [ Distributor:Summerhill Ent. ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660357701" stop="1590660357701" status="passed">
+                    <name>logStep[WOP Data [ AMCNIDAudio:LSIT01021938.1.English.OA ] Matched With Portal Data [ AMCNIDAudio:LSIT01021938.1.English...]</name>
+                    <title>WOP Data [ AMCNIDAudio:LSIT01021938.1.English.OA ] Matched With Portal Data [ AMCNIDAudio:LSIT01021938.1.English.OA ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660357702" stop="1590660357702" status="passed">
+                    <name>logStep[WOP Data [ ExpectedLanguage:English ] Matched With Portal Data [ ExpectedLanguage:English ] ]</name>
+                    <title>WOP Data [ ExpectedLanguage:English ] Matched With Portal Data [ ExpectedLanguage:English ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660357702" stop="1590660357702" status="passed">
+                    <name>logStep[WOP Data [ ExpectedChannel1-2:Stereo ] Matched With Portal Data [ ExpectedChannel1-2:Stereo ] ]</name>
+                    <title>WOP Data [ ExpectedChannel1-2:Stereo ] Matched With Portal Data [ ExpectedChannel1-2:Stereo ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660357703" stop="1590660357703" status="passed">
+                    <name>logStep[WOP Data [ EpisodeVersionType:Production Master-Combo ] Matched With Portal Data [ EpisodeVersionType:Production...]</name>
+                    <title>WOP Data [ EpisodeVersionType:Production Master-Combo ] Matched With Portal Data [ EpisodeVersionType:Production Master-...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660357703" stop="1590660357703" status="passed">
+                    <name>logStep[WOP Data [ AMCNID:RLA178240.2 ] Matched With Portal Data [ AMCNID:RLA178240.2 ] ]</name>
+                    <title>WOP Data [ AMCNID:RLA178240.2 ] Matched With Portal Data [ AMCNID:RLA178240.2 ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660357703" stop="1590660357703" status="passed">
+                    <name>logStep[WOP Data [ ExpectedScanType:Interlaced ] Matched With Portal Data [ ExpectedScanType:Interlaced ] ]</name>
+                    <title>WOP Data [ ExpectedScanType:Interlaced ] Matched With Portal Data [ ExpectedScanType:Interlaced ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660357704" stop="1590660357704" status="passed">
+                    <name>logStep[WOP Data [ ExpectedSegments:3 ] Matched With Portal Data [ ExpectedSegments:3 ] ]</name>
+                    <title>WOP Data [ ExpectedSegments:3 ] Matched With Portal Data [ ExpectedSegments:3 ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660357704" stop="1590660357704" status="passed">
+                    <name>logStep[WOP Data [ ExpectedVideoCodec:DNx HD (SMPTE VC-3) ] Matched With Portal Data [ ExpectedVideoCodec:DNx HD (SMPTE ...]</name>
+                    <title>WOP Data [ ExpectedVideoCodec:DNx HD (SMPTE VC-3) ] Matched With Portal Data [ ExpectedVideoCodec:DNx HD (SMPTE VC-3) ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660357705" stop="1590660357705" status="passed">
+                    <name>logStep[WOP Data [ ExpectedAspectRatio:1.78 ] Matched With Portal Data [ ExpectedAspectRatio:1.78 ] ]</name>
+                    <title>WOP Data [ ExpectedAspectRatio:1.78 ] Matched With Portal Data [ ExpectedAspectRatio:1.78 ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660357705" stop="1590660357705" status="passed">
+                    <name>logStep[WOP Data [ ExpectedFormat:HD ] Matched With Portal Data [ ExpectedFormat:HD ] ]</name>
+                    <title>WOP Data [ ExpectedFormat:HD ] Matched With Portal Data [ ExpectedFormat:HD ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660357705" stop="1590660357705" status="passed">
+                    <name>logStep[WOP Data [ Supplier:Miramax ] Matched With Portal Data [ Supplier:Miramax ] ]</name>
+                    <title>WOP Data [ Supplier:Miramax ] Matched With Portal Data [ Supplier:Miramax ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660357706" stop="1590660357706" status="passed">
+                    <name>logStep[WOP Data [ MatID:LSIT01021938 ] Matched With Portal Data [ MatID:LSIT01021938 ] ]</name>
+                    <title>WOP Data [ MatID:LSIT01021938 ] Matched With Portal Data [ MatID:LSIT01021938 ] </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Testclasess"/>
+                <label name="testClass" value="com.amc.Testclasess.execute.WOP_PortalComparisionTest"/>
+                <label name="testMethod" value="WOPtoPortalEpisodeDataTest"/>
+                <label name="story" value="Portal"/>
+                <label name="feature" value="Edit Work Order"/>
+                <label name="host" value="MONO-HYD-LAP-41"/>
+                <label name="thread" value="14756@MONO-HYD-LAP-41.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1590660357707" stop="1590660362470" status="passed">
+            <name>DataBaseConnectionTest</name>
+            <title>Connecting to DataBase and Mediator</title>
+            <steps>
+                <step start="1590660360938" stop="1590660360938" status="passed">
+                    <name>logStep[Connected to Databse]</name>
+                    <title>Connected to Databse</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660362469" stop="1590660362469" status="passed">
+                    <name>logStep[Login to Mediator Successfull]</name>
+                    <title>Login to Mediator Successfull</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1590660362469" stop="1590660362469" status="passed">
+                    <name>logStep[WOP to MP to Portal to Mediator Integration is Success : 3]</name>
+                    <title>WOP to MP to Portal to Mediator Integration is Success : 3</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Testclasess"/>
+                <label name="testClass" value="com.amc.Testclasess.execute.DataBaseTest"/>
+                <label name="testMethod" value="DataBaseConnectionTest"/>
+                <label name="story" value="Mediator"/>
+                <label name="feature" value="Edit Work Order"/>
+                <label name="host" value="MONO-HYD-LAP-41"/>
+                <label name="thread" value="14756@MONO-HYD-LAP-41.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

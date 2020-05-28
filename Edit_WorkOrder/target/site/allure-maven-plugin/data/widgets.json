@@ -1,0 +1,65 @@
+{
+  "hash" : "e7105c43ada45c9f6e0006854ef1a1d95249231d",
+  "plugins" : {
+    "total" : {
+      "statistic" : {
+        "total" : 13,
+        "passed" : 13,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      },
+      "time" : {
+        "start" : 1590659380718,
+        "stop" : 1590660362470,
+        "duration" : 981752
+      }
+    },
+    "defects" : {
+      "totalCount" : 0,
+      "items" : [ ]
+    },
+    "xunit" : {
+      "totalCount" : 2,
+      "items" : [ {
+        "uid" : "77b7195d5cdc68ec",
+        "title" : "Suite : Test",
+        "statistic" : {
+          "total" : 1,
+          "passed" : 1,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      }, {
+        "uid" : "bc530331edd283e",
+        "title" : "Suite : Testclasess",
+        "statistic" : {
+          "total" : 12,
+          "passed" : 12,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      } ]
+    },
+    "behaviors" : {
+      "totalCount" : 1,
+      "items" : [ {
+        "title" : "Edit Work Order",
+        "statistic" : {
+          "total" : 13,
+          "passed" : 13,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      } ]
+    },
+    "environment" : [ ]
+  }
+}

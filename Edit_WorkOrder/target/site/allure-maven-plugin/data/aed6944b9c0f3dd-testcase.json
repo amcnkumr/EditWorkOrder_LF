@@ -1,0 +1,110 @@
+{
+  "uid" : "aed6944b9c0f3dd",
+  "name" : "wopEpisodeVersionCreation",
+  "title" : "WOP Episode version Creation",
+  "time" : {
+    "start" : 1590659421071,
+    "stop" : 1590659922693,
+    "duration" : 501622
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 3
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "bc530331edd283e",
+    "name" : "Suite : Testclasess",
+    "title" : "Suite : Testclasess"
+  },
+  "steps" : [ {
+    "name" : "logStep[Episode Verison Creation is Success]",
+    "title" : "Episode Verison Creation is Success",
+    "time" : {
+      "start" : 1590659568041,
+      "stop" : 1590659568041,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[Created Media Asset In WOP Business System:Automation_LF prototype]",
+    "title" : "Created Media Asset In WOP Business System:Automation_LF prototype",
+    "time" : {
+      "start" : 1590659799376,
+      "stop" : 1590659799376,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logStep[WOP Services Up And Running :RLA178240.2]",
+    "title" : "WOP Services Up And Running :RLA178240.2",
+    "time" : {
+      "start" : 1590659853898,
+      "stop" : 1590659853898,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "testSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "testGroup",
+    "value" : "Testclasess"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "14756@MONO-HYD-LAP-41.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Suite : Testclasess"
+  }, {
+    "name" : "suite-title",
+    "value" : "Suite : Testclasess"
+  }, {
+    "name" : "testClass",
+    "value" : "com.amc.Testclasess.execute.WOPEpisodeVersionTest"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "testMethod",
+    "value" : "wopEpisodeVersionCreation"
+  }, {
+    "name" : "story",
+    "value" : "WOP"
+  }, {
+    "name" : "feature",
+    "value" : "Edit Work Order"
+  }, {
+    "name" : "host",
+    "value" : "MONO-HYD-LAP-41"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test thread-count="5" name="Testclasess(failed)">
+    <classes>
+      <class name="com.amc.Testclasess.execute.DataBaseTest">
+        <methods>
+          <include name="DataBaseConnectionTest"/>
+        </methods>
+      </class> <!-- com.amc.Testclasess.execute.DataBaseTest -->
+      <class name="com.amc.Testclasess.execute.ViewEditOrdersTest">
+        <methods>
+          <include name="EditWorkOrderTest"/>
+        </methods>
+      </class> <!-- com.amc.Testclasess.execute.ViewEditOrdersTest -->
+      <class name="com.amc.Testclasess.execute.WOP_PortalComparisionTest">
+        <methods>
+          <include name="WOPtoPortalEpisodeDataTest"/>
+        </methods>
+      </class> <!-- com.amc.Testclasess.execute.WOP_PortalComparisionTest -->
+      <class name="com.amc.Testclasess.execute.RecordLocatorTest">
+        <methods>
+          <include name="recordSearchField"/>
+        </methods>
+      </class> <!-- com.amc.Testclasess.execute.RecordLocatorTest -->
+    </classes>
+  </test> <!-- Testclasess(failed) -->
+</suite> <!-- Failed suite [Suite] -->
